@@ -1,0 +1,2 @@
+include LICENSE README.rst .test-requires tox.ini
+include test_urltree.py
